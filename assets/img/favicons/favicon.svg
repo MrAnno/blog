@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="100" height="100"><svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .a {
+        fill: #050505;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="a" d="M90.41,78.75A50,50,0,0,0,61.73.72Z"></path>
+    <path class="a" d="M50.07,18.1l-25,74.57a50,50,0,0,0,49.83,0Z"></path>
+    <path class="a" d="M38.43.68A50,50,0,0,0,9.61,78.78Z"></path>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
