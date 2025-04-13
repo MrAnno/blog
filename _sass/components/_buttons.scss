@@ -33,11 +33,6 @@
     );
   }
 
-  &:hover {
-    transform: translate3d(0, -5px, 0);
-    -webkit-transform: translate3d(0, -5px, 0);
-  }
-
   i {
     line-height: v.$back2top-size;
     position: relative;
